@@ -1,0 +1,3 @@
+Read about how Redux Saga works. Read the rest of the introduction. 
+Next thing is to just fuck about and build stuff now and use the docs to help
+https://github.com/react-boilerplate/react-boilerplate/blob/master/docs/general/introduction.md#workflow
